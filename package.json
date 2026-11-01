@@ -1,0 +1,9 @@
+{
+    "name": "week1-nodejs",
+    "version": "1.0.0",
+    "description": "Docker Hub automated build experiment",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    }
+}
